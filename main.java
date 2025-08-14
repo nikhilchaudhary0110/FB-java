@@ -1,7 +1,9 @@
 public class main{
-    public static void main (String[] args) {
-        System.out.println("Your name");
-        System.out.println("Roll.no");
-        System.out.println("Class");
-    }
-}
+    public static void main(String[] args) {
+        int a= 6,b=5;
+        System.out.println(a&b);
+        System.out.println(a|b);
+        System.out.println(a^b);
+        System.out.println(a<<b);
+        System.out.println(a>>b);
+}}
